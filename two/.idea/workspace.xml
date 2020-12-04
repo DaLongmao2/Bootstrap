@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1001007d-140a-4322-9f90-5a06ddb4835e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1eMf2wqtb8OA8UIQxOP6bMOr98q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1001007d-140a-4322-9f90-5a06ddb4835e" name="Default Changelist" comment="" />
+      <created>1594136178635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594136178635</updated>
+      <workItem from="1594136308310" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="119" y="269" key="#HTTP_Proxy" timestamp="1594136450894">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="119" y="269" key="#HTTP_Proxy/0.0.1536.834@0.0.1536.834" timestamp="1594136450894" />
+    <state x="734" y="178" key="FileChooserDialogImpl" timestamp="1594136692545">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="734" y="178" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594136692545" />
+    <state x="455" y="68" key="SettingsEditor" timestamp="1594137044823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="455" y="68" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1594137044823" />
+  </component>
+</project>
